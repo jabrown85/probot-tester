@@ -1,0 +1,2 @@
+- regExp: ".*db/migrate/.*"
+  labels: ["migration-order-check", "critical"]
