@@ -1,0 +1,1 @@
+migration-order-check: ["db/migration/*"]
